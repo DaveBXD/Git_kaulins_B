@@ -6,12 +6,12 @@ Java projekts, kurs realize metama kaulina mesanu.
 
 ### ""Daramo darbu saraksts""
 
--[x] uzsakta lokala projekta versionesana ar Git.
--[x] Izveidot GitHub kontu.
--[x] Izveidot GitHub repo.
--[x] lokalais projekts izvietots GitHub.
--[x] Papildinatåis GitHub kratuves saturs ieguts lokalai lietosanai.
--[ ] Projektam vel piesledzies viens programmetajs un izmegina kopdarbosanas( forking un clone)
--[ ] Projekta izveidots jauns zars (branch)
--[ ] sapludinati zari un noversts merge konflikts
+- [x] uzsakta lokala projekta versionesana ar Git.
+- [x] Izveidot GitHub kontu.
+- [x] Izveidot GitHub repo.
+- [x] lokalais projekts izvietots GitHub.
+- [x] Papildinatåis GitHub kratuves saturs ieguts lokalai lietosanai.
+- [ ] Projektam vel piesledzies viens programmetajs un izmegina kopdarbosanas( forking un clone)
+- [ ] Projekta izveidots jauns zars (branch)
+- [ ] sapludinati zari un noversts merge konflikts
 
